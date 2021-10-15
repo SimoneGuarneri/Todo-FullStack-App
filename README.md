@@ -7,6 +7,7 @@
 ### Install and Start
 
 **FrontEnd:** `npm install` ➔ `npm start`
+
 **BackEnd:** Open project ➔  Run ToDoListApplication.java
 
 **MySql Database:** You can import my database from the source file
