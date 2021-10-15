@@ -2,7 +2,7 @@
 ### _Todo fullstack app made with React and Spring_
 
 ## App 📚
-![Todo App](https://imgur.com/a/IWEypPj)
+![Todo App](https://i.imgur.com/GJX7Anp.gif)
 
 ### Install and Start
 
