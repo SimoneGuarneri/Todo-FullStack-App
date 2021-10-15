@@ -1,0 +1,120 @@
+.loggedText{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 2em;
+    color: #fff;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.loggedIcon{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 5em;
+    color: #fff;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logOut{
+    top: 10%;
+    left: 90% !important;
+}
+.toDo{
+    top: 30%;
+}
+
+.itemFatto{
+    font-size: 1.5em;
+    position: relative;
+    left: -30%;
+    top: 5vh;
+
+    background: none;
+    border: none;
+}
+
+.itemElimina{
+    position: relative;
+    left: 30%;
+    top: 5vh;
+    
+    background: none;
+    border: none;
+}
+
+.todos{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 50%;
+    height: 55%;
+
+    text-align: center;
+    overflow-y: auto;
+}
+
+.todosList{
+    
+    list-style-type: none;
+    margin-bottom: 10px;
+
+    max-width: 100%;
+    word-wrap: break-word;
+
+    background: #FFFFFFAA;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+
+.inputTitolo, .inputContenuto{
+
+    position: absolute;
+    top: 87.5%;
+    transform: translate(-50%, -50%);
+}
+
+.inputTitolo{
+    
+    left: 30% !important;
+    width: 20% !important;
+}
+.inputContenuto{
+    
+    left: 60% !important;
+    width: 40% !important;
+    margin-left: 5px;
+}
+.inputButton{
+    
+    font-size: 1em;
+    top: 95%;
+    left: 50% !important;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .inputTitolo {
+        
+        left: 25% !important;
+        width: 30%;
+    }
+    .inputContenuto{
+        
+        left: 60% !important;
+        width: 50% !important;
+    }
+    
+}
+

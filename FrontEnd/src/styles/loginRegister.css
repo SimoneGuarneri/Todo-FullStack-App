@@ -1,0 +1,42 @@
+.loginIcon{
+
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 7em;
+    font-weight: 700;
+
+}
+
+.inputEmail{
+    top: 35%;
+}
+.inputUsername{
+    top: 50%;
+}
+.inputPassword{
+    top:65%;
+}
+
+.orRegister{
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+    font-family: 'Dosis', sans-serif;
+    color: #fff;
+}
+
+.error{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-family: 'Dosis', sans-serif;
+    color: #e63946;
+}

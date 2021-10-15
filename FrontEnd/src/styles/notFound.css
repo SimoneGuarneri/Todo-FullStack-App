@@ -1,0 +1,28 @@
+.NotFoundSkull{
+
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 10em;
+    font-weight: 700;
+
+    background: none;
+    outline: none;
+    border: none;
+
+}
+
+.NotFoundText{
+
+    color: #fff;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+
+}
