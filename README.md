@@ -1,5 +1,5 @@
 # Todo App
-### _Todo fullstack app made with React and Spring_
+** _Todo fullstack app made with React and Spring_**
 
 ## App 📚
 ![Todo App](https://i.imgur.com/GJX7Anp.gif)
